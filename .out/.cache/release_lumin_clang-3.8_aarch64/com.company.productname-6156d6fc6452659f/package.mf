@@ -1,0 +1,131 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "589bb4e9de10282ed7733b0b2b93fb21a2c27539",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 1742876,
+   "src": "/Users/johntucker/Documents/Navigation/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "32ddc8eb10b2f76722fe1d51de3e9a5cda779263",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 18974504,
+   "src": "/Users/johntucker/Documents/Navigation/Temp/StagingArea/Data/Native/libil2cpp.so"
+  },
+  {
+   "compression": 8,
+   "hash": "f40eb17b43113196d3596610f2e2ef67448f5d1a",
+   "pkgpath": "bin/UnityEngine.SpatialTracking.dll",
+   "size": 9216,
+   "src": "/Users/johntucker/Documents/Navigation/Temp/StagingArea/Data/Plugins/UnityEngine.SpatialTracking.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "ed19c075c8e38dde3841888614364d15cc7538a0",
+   "pkgpath": "bin/UnityEngine.TestRunner.dll",
+   "size": 65536,
+   "src": "/Users/johntucker/Documents/Navigation/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "8c442df867d48e5c05369ecf7257288e2e2ee6dd",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 728952,
+   "src": "/Users/johntucker/Documents/Navigation/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so"
+  },
+  {
+   "compression": 8,
+   "hash": "5629c7ff5fb59ddc72778d4b9d3dbadcde480998",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 328192,
+   "src": "/Users/johntucker/Documents/Navigation/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "/Users/johntucker/Documents/Navigation/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "dc8d956e48e76474f190e96cb3b127735edb7bfc",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3308252,
+   "src": "/Users/johntucker/Documents/Navigation/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "06b042da53cc28c7863fb442364c6be27f8e8f4a",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 293308,
+   "src": "/Users/johntucker/Documents/Navigation/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "9bbb5e3aae616602db933abd34140e11132fccea",
+   "pkgpath": "Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json",
+   "size": 438,
+   "src": "/Users/johntucker/Documents/Navigation/Temp/StagingArea/Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "e94169e04982098c15b71dea64d4bb6da942f232",
+   "pkgpath": "Data/boot.config",
+   "size": 76,
+   "src": "/Users/johntucker/Documents/Navigation/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "3e03ee2f8e83dbd3402a1074e19ed985dad70755",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 29280,
+   "src": "/Users/johntucker/Documents/Navigation/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "b66ba056e28ca523b96a742daf8ee8dbb57362cc",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 24948,
+   "src": "/Users/johntucker/Documents/Navigation/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "f579a98caca226afbee5c02f4ca8fab3ab128936",
+   "pkgpath": "Data/level0",
+   "size": 5497,
+   "src": "/Users/johntucker/Documents/Navigation/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "1a8e452affd7e314c1f2ad52a854e4466823e722",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 86900,
+   "src": "/Users/johntucker/Documents/Navigation/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "f4b680f8849d213bee8939f2b0cd869f7bc9a7e2",
+   "pkgpath": "bin/Player.elf",
+   "size": 22055960,
+   "src": "/Users/johntucker/Documents/Navigation/Temp/StagingArea/Player.elf"
+  },
+  {
+   "compression": 8,
+   "hash": "af12e0c83e7be304c6d4636462e295d21aac0794",
+   "pkgpath": "manifest.xml",
+   "size": 509,
+   "src": "/Users/johntucker/Documents/Navigation/Temp/StagingArea/manifest.xml"
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "/Users/johntucker/MagicLeap/mlsdk/v0.16.0/lumin/stl/libc++/lib/libc++_shared.so"
+  }
+ ],
+ "pkgflags": {}
+}

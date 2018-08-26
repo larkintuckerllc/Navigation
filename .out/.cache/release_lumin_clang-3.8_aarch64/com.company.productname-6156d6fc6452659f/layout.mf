@@ -1,0 +1,30 @@
+[
+ {
+  "dest": "bin/libil2cpp.so",
+  "src": "/Users/johntucker/Documents/Navigation/Temp/StagingArea/Data/Native/libil2cpp.so"
+ },
+ {
+  "dest": "bin/UnityEngine.SpatialTracking.dll",
+  "src": "/Users/johntucker/Documents/Navigation/Temp/StagingArea/Data/Plugins/UnityEngine.SpatialTracking.dll"
+ },
+ {
+  "dest": "bin/UnityEngine.TestRunner.dll",
+  "src": "/Users/johntucker/Documents/Navigation/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+ },
+ {
+  "dest": "bin/UnityMagicLeap.so",
+  "src": "/Users/johntucker/Documents/Navigation/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so"
+ },
+ {
+  "dest": "bin/nunit.framework.dll",
+  "src": "/Users/johntucker/Documents/Navigation/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+ },
+ {
+  "dest": "bin/Player.elf",
+  "src": "/Users/johntucker/Documents/Navigation/Temp/StagingArea/Player.elf"
+ },
+ {
+  "dest": "bin/libc++_shared.so",
+  "src": "/Users/johntucker/MagicLeap/mlsdk/v0.16.0/lumin/stl/libc++/lib/libc++_shared.so"
+ }
+]
