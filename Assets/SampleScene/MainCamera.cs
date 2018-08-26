@@ -7,8 +7,18 @@ namespace Com.Larkintuckerllc.Navigation
         static int LAYER_MASK = 1;
         float _last = 0.0f;
 
+        private void Awake()
+        {
+            Global.mainCameraForward = transform.forward;
+            Global.mainCameraPosition = transform.position;
+            Global.mainCameraRotation = transform.rotation;
+        }
+
         void Update()
         {
+            Global.mainCameraForward = transform.forward;
+            Global.mainCameraPosition = transform.position;
+            Global.mainCameraRotation = transform.rotation;
             var now = Time.time;
             if (Global.mode == Global.Mode.Play && ((now - _last) >= 1.0f))
             {

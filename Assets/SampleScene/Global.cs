@@ -11,6 +11,9 @@ namespace Com.Larkintuckerllc.Navigation
         static public Mode mode = Mode.Start;
         static public Vector3 hit;
         static public bool hitSet = false;
+        static public Vector3 mainCameraForward;
+        static public Vector3 mainCameraPosition;
+        static public Quaternion mainCameraRotation;
         static public Vector3 placement;
     }
 }
