@@ -8,8 +8,9 @@ namespace Com.Larkintuckerllc.Navigation
         static Vector3 CHICKEN_POSITION = new Vector3(0.0f, 0.35f, 0.0f);
         static string PELLET_PREFAB_NAME = "Pellet";
         static Vector3 PELLET_POSITION_OFFSET = new Vector3(0.0f, 0.1f, 0.0f);
+        static string PELLET_CLOUD_PREFAB_NAME = "PelletCloud";
         static string SHAKER_PREFAB_NAME = "Shaker";
-        static Vector3 SHAKER_POSITION_OFFSET = new Vector3(0.0f, 0.2f, 0.0f);
+        static Vector3 SHAKER_POSITION_OFFSET = new Vector3(0.0f, 1.0f, 0.0f);
 
         bool _placementSet = false;
 
@@ -51,6 +52,9 @@ namespace Com.Larkintuckerllc.Navigation
             GameObject pellet = (GameObject)Instantiate(Resources.Load(PELLET_PREFAB_NAME));
             Transform pelletTransform = pellet.GetComponent<Transform>();
             pelletTransform.localPosition = Global.placement + PELLET_POSITION_OFFSET;
+            GameObject pelletCloud = (GameObject)Instantiate(Resources.Load(PELLET_CLOUD_PREFAB_NAME));
+            Transform pelletCloudTransform = pelletCloud.GetComponent<Transform>();
+            pelletCloudTransform.localPosition = Global.placement;
         }
     }
 }

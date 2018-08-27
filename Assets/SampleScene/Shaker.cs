@@ -5,7 +5,7 @@ namespace Com.Larkintuckerllc.Navigation
     public class Shaker : MonoBehaviour
     {
         float SPEED = 1.0f;
-        Vector3 SHAKER_POSITION_OFFSET = new Vector3(0.0f, 0.2f, 0.0f);
+        Vector3 SHAKER_POSITION_OFFSET = new Vector3(0.0f, 1.0f, 0.0f);
 
         void Update()
         {
